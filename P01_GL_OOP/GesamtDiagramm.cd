@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="P01_GL_OOP.Echidna" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAEAIAQAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Echidna.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="P01_GL_OOP.Fisch" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAEAAAAAAAAAEAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fisch.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="P01_GL_OOP.Hai" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hai.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P01_GL_OOP.Hirsch" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hirsch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P01_GL_OOP.Krähe">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Krähe.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="P01_GL_OOP.Pinguin" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pinguin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="P01_GL_OOP.Program" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P01_GL_OOP.Seepferd" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seepferd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P01_GL_OOP.Säugetier" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Säugetier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P01_GL_OOP.Tier" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAgAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P01_GL_OOP.Vogel" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAIAQAABAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Vogel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="P01_GL_OOP.IEierlegen" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAQAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IEierlegen.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="P01_GL_OOP.IFliegen" Collapsed="true">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IFliegen.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="P01_GL_OOP.ISchwimmen" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISchwimmen.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
